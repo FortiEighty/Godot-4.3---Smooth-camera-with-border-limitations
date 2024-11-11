@@ -1,6 +1,5 @@
-# click-to-move
- A top-down click to move for 2D games in Godot 4.3.
- Possible to add acceleration if needed. 
+# Smooth 2D camera
+A top down 2D smooth camera with adjustable borders based on TileMap size.
 
  --- 
  Usage:
